@@ -30,10 +30,13 @@ body {
 
 .main {
     flex: 1 0 auto;
+    max-width: 60%;
+    margin-top: 2em;
 }
 
 .header, .footer {
     flex: 0 0 auto;
+    background-color: rgb(145, 210, 240);
 }
 
 /* Header */
@@ -46,8 +49,9 @@ body {
 /* Title */
 
 .title, .logo {
-    padding: 3em 3em 3em 0;
+    padding: 3em 3em 0em 0;
 }
+
 
 @media (max-width: 767px) {
     .title, .logo {
@@ -58,6 +62,9 @@ body {
     }
     .logo {
         max-width: 30%;
+    }
+    .main {
+        max-width: 90%;
     }
 }
 
@@ -91,17 +98,20 @@ body {
     font-family: sans-serif;
     line-height: 1.5rem;
     color: #444;
+    margin-left: 0em;
 }
 
 p, td, th, li, dd {
     text-align: justify;
     overflow-wrap: break-word;
     word-wrap: break-word;
+    margin-bottom: 0.8em;
+    margin-left: 0.8em;
 }
 
 h1, h2, h3, h4, h5, h6 {
     margin-bottom: 0.6em;
-    
+    margin-left: 0.4em;
     font-weight: bold;
 }
 
