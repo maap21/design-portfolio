@@ -1,0 +1,37 @@
+body {
+    background-color: $background-color;
+    display: flex;
+    flex-direction: column;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+.main {
+    flex: 1 0 auto;
+    max-width: 64em;
+    padding: 0.4em;
+    margin: 2em auto;
+}
+
+* {
+    box-sizing: border-box;
+    border: 0 none;
+    margin: 0;
+    padding: 0;
+}
+
+ol,
+ul {
+    padding-left: 1.5em;
+}
+
+li {
+    margin-bottom: 0.8em;
+}
+
+.hidden {
+    display: none !important;
+}

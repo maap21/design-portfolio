@@ -1,0 +1,19 @@
+.footer {
+    flex: 0 0 auto;
+    background-color: $footer-background;
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid $footer-border;
+}
+
+.footer a {
+    color: $footer-links;
+}
+
+.footer p {
+    margin-left: 0.2em;
+}
+
+.footer .social {
+    font-size: 2rem;
+}

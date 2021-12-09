@@ -1,0 +1,31 @@
+/* main-colors */
+$font-color: #000;
+$font-alternative-color: #fff;
+$accent-color: #ee6c4d;
+$background-color: #dd7fcd;
+$background-alternative-color: #e0fbfc;
+
+/* header-colors */
+$header-background: #e0fbfc;
+$title-color: #111;
+$nav-links: #333;
+
+/* footer-colors */
+$footer-background: #e0fbfc;
+$footer-border: #222;
+$footer-links: #222;
+
+/* code-colors */
+$code-background: #f5f5f5;
+$code-border: #ccc;
+
+/* pre-colors */
+$pre-background: #f5f5f5;
+$pre-border: #ccc;
+
+/* blockquote-colors */
+$blockquote-border: #ccc;
+
+$main-font-size: 1em;
+$main-line-height: 1.4;
+$magic-number: $main-font-size * $main-line-height;

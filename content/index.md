@@ -3,7 +3,7 @@ Title: Home
 Description: This is our index page.
 ---
 
-Home page
+Min designsida
 ==========================
 
 Mitt namn är Magnus Wåhlin. Född och uppvuxen i Norrköping, i området Smedby. Jag gillar fotboll. Jag har gått på naturvetenskapligt gymmnasium. Jag har jobbat i fabrik och i butik.
