@@ -1,5 +1,5 @@
 ---
-Title: Om
+Title: About
 Description: Om tekniker på sidan
 ---
 
